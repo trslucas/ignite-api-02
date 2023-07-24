@@ -10,6 +10,6 @@
 #RN 
 
 [x] A transação pode ser do tipo cŕedito (somará ao valor total) ou tipo débito (diminuará do valor total)
-[] Deve ser possível identificar o usuário da transação nas requisições
-[] O usuário só pode visualizar transações que ele criou
+[x] Deve ser possível identificar o usuário da transação nas requisições
+[x] O usuário só pode visualizar transações que ele criou
 
